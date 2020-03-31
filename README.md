@@ -1,18 +1,13 @@
-# igaworks-survey
+# 소개
+* Youtube API를 활용 및 Intersection Observer API로 무한스크롤을 구현했습니다.
+* Youtube에서 제공하는 동영상을 무한스크롤 및 영상시청이 가능합니다.
+* 반응형으로 제작됐습니다.
+<br><br><br>
 
-> A Vue.js project
+# Demo 정보
+* URL: https://devjhg0sdfsdf.firebaseapp.com/#videoBox
+<br><br><br>
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# Stack
+* Front: HTML, CSS, React, Redux, Redux-saga
+* Infra: Firebase
