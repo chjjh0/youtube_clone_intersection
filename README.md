@@ -5,7 +5,7 @@
 <br><br><br>
 
 # Demo 정보
-* URL: https://devjhg0sdfsdf.firebaseapp.com/#videoBox
+* URL: https://devjhg0sdfsdf.firebaseapp.com/
 <br><br><br>
 
 # Stack
