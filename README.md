@@ -5,7 +5,7 @@
 <br><br><br>
 
 # Demo 정보
-* URL: https://devjhg0sdfsdf.firebaseapp.com/
+* URL: https://clone-intersection.firebaseapp.com/
 <br><br><br>
 
 # Stack
