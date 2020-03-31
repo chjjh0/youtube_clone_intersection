@@ -1,5 +1,5 @@
 # 소개
-* Youtube API를 활용 및 Intersection Observer API로 무한스크롤을 구현했습니다.
+* Youtube API Intersection Observer API로 무한스크롤을 구현했습니다.
 * Youtube에서 제공하는 동영상을 무한스크롤 및 영상시청이 가능합니다.
 * 반응형으로 제작됐습니다.
 <br><br><br>
